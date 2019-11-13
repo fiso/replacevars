@@ -1,0 +1,9 @@
+{
+  "name": "@fhaglund/replacevars",
+  "version": "1.0.0",
+  "description": "Simple variable replacement in strings",
+  "author": "Filip Haglund",
+  "license": "ISC",
+  "repository": "https://github.com/fiso/replacevars",
+  "main": "replacevars.js"
+}
